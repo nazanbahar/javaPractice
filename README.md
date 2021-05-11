@@ -3,7 +3,7 @@ Java Practice
 ##### hrms project.
 **Continent**</br>
 **Section-1**</br>
-STEP-1. Spring Configuration Steps</br>
+### STEP-1. Spring Configuration Steps</br>
 -Spring yazılım geliştirmede, gelişmiş yardımcı framework
 -Veritabanına bağlanmak, sorgu yazmak</br>
 Links </br>
