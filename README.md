@@ -36,7 +36,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 16+36-2231, mixed mode, sharing)`</br>
 ### 1.3. Dependencies
 Add Dependencies (Ctrl+B) </br>
 s1. devTools→ Spring Boot DevTools</br>
-s2. lombok → (getter-setter için)</br>
+s2. lombok → (getter-setter ve non parameter consturctor için)</br>
 s3. web service → Spring Web Services(WEB)</br>
 s4. data jpa→ Spring Data JPA (SQL)</br>
 s5. postgre→ PostgreSQL Driver (SQL) </br>
