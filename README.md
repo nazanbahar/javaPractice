@@ -14,11 +14,11 @@ Links </br>
 
 
 ### 1.1. Options:
-Project: Maven Project
-Language: Java
-Spring Boot : 2.4.5
-Packaging: Jar
-Java : 16 (choose version)
+Project: Maven Project</br>
+Language: Java</br>
+Spring Boot : 2.4.5</br>
+Packaging: Jar</br>
+Java : 16 (choose version)</br>
 
 ### 1.2. Project Metadata
 Group : kodlamaio (Group bilgisi)
