@@ -28,10 +28,10 @@ Description : Human Resource Development project Spring Boot
 Package name : kodlamaio.hrms  (auto)
 
 ### java version öğrenmek için..
-`C:\Users\User>java -version</br>
-java version "16" 2021-03-16</br>
-Java(TM) SE Runtime Environment (build 16+36-2231)</br>
-Java HotSpot(TM) 64-Bit Server VM (build 16+36-2231, mixed mode, sharing)`</br>
+`C:\Users\User>java -version
+java version "16" 2021-03-16
+Java(TM) SE Runtime Environment (build 16+36-2231)
+Java HotSpot(TM) 64-Bit Server VM (build 16+36-2231, mixed mode, sharing)```</br>
 
 ### 1.3. Dependencies
 Add Dependencies (Ctrl+B) 
