@@ -1,7 +1,12 @@
 # javaPractice
 Java Practice
-##### My Dictionary of World Countries by Continents.
+##### hrms project.
 **Continent**</br>
+**Section-1**</br>
+STEP-1. Spring Configuration Steps
+-Spring yazılım geliştirmede, gelişmiş yardımcı framework
+-Veritabanına bağlanmak, sorgu yazmak
+[Spring initializr Pages](https://start.spring.io/)
 
 `console.log("Hello, World!");`
 
